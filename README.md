@@ -23,20 +23,21 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```javascript
 const kaushikKrishna = {
   name:       "M Kaushik Krishna",
   location:   "Tumakuru, Karnataka, India",
   role:       "Software Test Engineer (QA)",
-  experience: "2+ years in Software Testing + 5+ years in Quality (Manufacturing)",
+  experience: "2+ yrs Software Testing + 5+ yrs Quality",
 
   stack: [
     "Manual Testing", "STLC", "API Testing",
     "Postman", "JIRA", "ClickUp", "Git/GitHub",
-    "HTML5", "CSS3", "JavaScript", "React",
-    "SQL", "Power BI"
+    "HTML5", "CSS3", "JavaScript", "React", "SQL"
   ],
 
   currentlyLearning: [
@@ -45,11 +46,19 @@ const kaushikKrishna = {
     "Cypress for E2E Testing"
   ],
 
-  funFact: "I find bugs before your users do — it's not a skill, it's a calling.",
+  funFact: "I find bugs before your users do.",
 
-  motto: () => "Quality is never an accident; it is always the result of intelligent effort."
+  motto: () => "Quality is always the result of" +
+               " intelligent effort."
 };
 ```
+
+</td>
+<td valign="top" align="center" width="45%">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="coding gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
